@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculadora binaria</title>
+</head>
+<body>
+	<div id = "display"></div>
+	<a href = "" >1</a>
+	<a href = "" >0</a>
+	<a href = "" >+</a>
+	<a href = "" >=</a>
+
+</body>
+</html>
